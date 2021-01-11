@@ -2,6 +2,7 @@
 
 
 
+SELLER,USER,PRODUCTS
 
 AUTH
 -Custom jwt auth u auth.backends
